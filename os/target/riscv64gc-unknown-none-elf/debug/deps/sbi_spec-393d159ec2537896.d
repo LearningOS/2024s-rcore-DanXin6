@@ -1,0 +1,14 @@
+/home/danxin/develop/project/2024s-rcore-DanXin6/os/target/riscv64gc-unknown-none-elf/debug/deps/libsbi_spec-393d159ec2537896.rmeta: /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/lib.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/binary.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/base.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/time.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/spi.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/rfnc.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/hsm.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/srst.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/pmu.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/dbcn.rs
+
+/home/danxin/develop/project/2024s-rcore-DanXin6/os/target/riscv64gc-unknown-none-elf/debug/deps/sbi_spec-393d159ec2537896.d: /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/lib.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/binary.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/base.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/time.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/spi.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/rfnc.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/hsm.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/srst.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/pmu.rs /home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/dbcn.rs
+
+/home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/lib.rs:
+/home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/binary.rs:
+/home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/base.rs:
+/home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/time.rs:
+/home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/spi.rs:
+/home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/rfnc.rs:
+/home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/hsm.rs:
+/home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/srst.rs:
+/home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/pmu.rs:
+/home/danxin/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/sbi-spec-0.0.5/src/dbcn.rs:
